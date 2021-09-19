@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093987437020",
+    "firebase_url": "https://w-safe.firebaseio.com",
+    "project_id": "w-safe",
+    "storage_bucket": "w-safe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093987437020:android:4794cb468399e862e96719",
+        "android_client_info": {
+          "package_name": "com.Project.w_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093987437020-4c6m3r4ee5t3vskfbmlnd37ip8cu3hth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDezTON-J30KRJKfJo-079WxUBMwq4Uxqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093987437020-4c6m3r4ee5t3vskfbmlnd37ip8cu3hth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
